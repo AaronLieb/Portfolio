@@ -11,7 +11,7 @@
         - typing speed
     - Effects
         - Screen curvature (css transformation)
-        - moving render lines
+        - moving crt render lines
         - text glow
         - slight glow in center, fade out near edges 
 
@@ -29,7 +29,7 @@
 ## Back-End
 
 ### Language
-- Rust
+- Rust or Typescript
 
 ### Endpoints
 - `POST /notify` Notification endpoint to ping my phone
